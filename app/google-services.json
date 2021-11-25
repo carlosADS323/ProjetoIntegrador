@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959850816090",
+    "project_id": "projetointegrador-879f9",
+    "storage_bucket": "projetointegrador-879f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959850816090:android:a712feb9d20b8f6a32ae63",
+        "android_client_info": {
+          "package_name": "com.example.projetointegrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959850816090-9asc54e4e7h44s4it4m4874ukffonmtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPDJYcrxBMrcmVRXhKXucKgnxXWI3Q7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959850816090-9asc54e4e7h44s4it4m4874ukffonmtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

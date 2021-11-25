@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoIntegrador</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Clique aqui para se cadastrar</string>
+    <string name="title_cadastro">Cadastrar-se</string>
+    <string name="calcular_imc">Calculo do IMC</string>
+    <string name="lista_treino">Lista de Treino</string>
+    <string name="imc">Calcular IMC</string>
+</resources>
