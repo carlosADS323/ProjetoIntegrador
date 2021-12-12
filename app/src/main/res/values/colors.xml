@@ -10,4 +10,11 @@
     <color name="orange">#FFA500</color>
     <color name="orangered">#FF4500</color>
     <color name="darkorange">#FF8C00</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="Maroon">#800000</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Black">#000000</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Yellow">#FFFF00</color>
 </resources>

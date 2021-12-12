@@ -7,4 +7,8 @@
     <string name="calcular_imc">Calculo do IMC</string>
     <string name="lista_treino">Lista de Treino</string>
     <string name="imc">Calcular IMC</string>
+    <string name="navigation_drawer_open">Open navegation drawer</string>
+    <string name="navigation_drawer_close">Close navegation drawer</string>
+    <string name="drawer">drawer</string>
+
 </resources>

@@ -10,6 +10,7 @@ import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -26,6 +27,7 @@ public class FormLogin extends AppCompatActivity {
     private EditText edit_email,edit_senha;
     private Button bt_entrar;
     private ProgressBar progressBar;
+    private ImageView logo_academy;
     String[] mensagens = {"Preencha todos os campos", "Login efetuado com sucesso"};
 
     @Override
@@ -119,5 +121,7 @@ public class FormLogin extends AppCompatActivity {
         edit_senha = findViewById(R.id.edit_senha);
         bt_entrar = findViewById(R.id.bt_entrar);
         progressBar = findViewById(R.id.progressbar);
+        logo_academy = findViewById(R.id.logo_academy);
+
     }
 }

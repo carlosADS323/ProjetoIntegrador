@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_view">
+
+<item android:title="Principal">
+ <menu>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_treino"
+            android:icon="@drawable/ic_baseline_play_circle"
+            android:title="Treino"/>
+        <item
+            android:id="@+id/nav_imc"
+            android:icon="@drawable/ic_baseline_play_circle"
+            android:title="Imc"/>
+    </group>
+ </menu>
+</item>
+
+ <item android:title="Outros">
+    <menu>
+    <group android:checkableBehavior="single">
+
+        <item android:title="Profile">
+
+            <menu>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Logout" />
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="Profile" />
+
+            </menu>
+
+        </item>
+
+    </group>
+    </menu>
+ </item>
+
+</menu>
